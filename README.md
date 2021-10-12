@@ -11,7 +11,7 @@
 #### 技能点
 
 ![Android](https://img.shields.io/badge/Android-%2335495e.svg?style=for-the-badge&logo=Android&logoColor=%FF35D06D)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=%FF0F7BE4)
+![Kotlin](https://img.shields.io/badge/Kotlin-%23323330.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 #### 最近更新：
 
