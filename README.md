@@ -11,6 +11,11 @@
 #### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
+- [【辨析】Compose 完全脱离 View 系统了吗?](https://juejin.cn/post/7017811394036760612)
+- [【开源项目】Compose版SmartRefreshLayout,了解一下~](https://juejin.cn/post/7016306653892968484)
+- [为什么 Compose 没有布局嵌套问题?](https://juejin.cn/post/7011854550973808648)
+- [【开源项目】简单易用的Compose版StateLayout,了解一下~](https://juejin.cn/post/7010382907084636168)
+- [相比 XML , Compose 性能到底怎么样？](https://juejin.cn/post/7008522702835154980)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **shenzhen2017/shenzhen2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
