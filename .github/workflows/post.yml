@@ -1,0 +1,40 @@
+# workflow 名称
+name: CI
+
+on:
+  # push 的时候触发
+  push:
+    branches: [ master ]
+  # 每周二触发
+  schedule:
+    - cron: '0 21 * * 2'
+  workflow_dispatch:
+
+jobs:   
+  # 更新博客 Job
+  blog:
+    timeout-minutes: 10
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      # 使用 docker compose 部署 rsshub
+      - name: Start containers
+        run: docker-compose -f "docker-compose.yml" up -d --build
+
+      - name: Install node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14.x
+
+      - name: Install dependencies
+        run: npm install
+          
+      # 将注释替换成更新博客链接
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "http://localhost:1200/juejin/posts/668101431009496"
+          
+      - name: Stop containers
+        if: always()
+        run: docker-compose -f "docker-compose.yml" down
