@@ -8,6 +8,11 @@
 | :--------------------------------------------------------: | :--------------------------------------------: |:--------------------------------------------: |
 | [点我](https://juejin.cn/user/668101431009496/posts)  | [点我](https://github.com/shenzhen2017) | 2868405029@qq.com|
 
+#### 技能点
+
+![Android](https://img.shields.io/badge/Android-%2335495e.svg?style=for-the-badge&logo=Android&logoColor=%FF35D06D)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=%FF0F7BE4)
+
 #### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
