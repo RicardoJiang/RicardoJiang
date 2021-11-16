@@ -17,11 +17,11 @@
 #### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
+- [那些容易混淆的设计模式，了解一下~](https://juejin.cn/post/7030415720676589581)
 - [MVI 架构封装：快速优雅地实现网络请求](https://juejin.cn/post/7027815347281477645)
 - [MVI 架构更佳实践：支持 LiveData 属性监听](https://juejin.cn/post/7025222741322121223)
 - [MVVM 进阶版：MVI 架构了解一下~](https://juejin.cn/post/7022624191723601928)
 - [【知识点】OkHttp 原理 8 连问](https://juejin.cn/post/7020027832977850381)
-- [【辨析】Compose 完全脱离 View 系统了吗?](https://juejin.cn/post/7017811394036760612)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **shenzhen2017/shenzhen2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
