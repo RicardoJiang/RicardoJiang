@@ -17,7 +17,7 @@
 #### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
-- [【2021年终总结】战胜拖延症的4种实用方法](https://juejin.cn/post/7035780572404252708)
+- [[2021年终总结] 战胜拖延症的4种实用方法](https://juejin.cn/post/7035780572404252708)
 - [Compose + MVI + Navigation 快速实现 wanAndroid 客户端](https://juejin.cn/post/7033918453807480846)
 - [那些容易混淆的设计模式，了解一下~](https://juejin.cn/post/7030415720676589581)
 - [MVI 架构封装：快速优雅地实现网络请求](https://juejin.cn/post/7027815347281477645)
