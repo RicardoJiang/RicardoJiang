@@ -1,4 +1,4 @@
-### Ricardo's Github
+### Hi，我是江同学
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shenzhen2017&show_icons=true&theme=radical)
 
