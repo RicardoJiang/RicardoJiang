@@ -17,11 +17,11 @@
 #### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
+- [@Compose 注解到底做了什么？了解一下~](https://juejin.cn/post/7051222120331739143)
 - [Google 推荐使用 MVI 架构？卷起来了~](https://juejin.cn/post/7048980213811642382)
 - [[2021年终总结] 战胜拖延症的4种实用方法](https://juejin.cn/post/7035780572404252708)
 - [Compose + MVI + Navigation 快速实现 wanAndroid 客户端](https://juejin.cn/post/7033918453807480846)
 - [那些容易混淆的设计模式，了解一下~](https://juejin.cn/post/7030415720676589581)
-- [MVI 架构封装：快速优雅地实现网络请求](https://juejin.cn/post/7027815347281477645)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **shenzhen2017/shenzhen2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
