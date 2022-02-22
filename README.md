@@ -17,11 +17,11 @@
 #### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
+- [Gradle 7.0都有哪些新特性?](https://juejin.cn/post/7066939912263565342)
 - [关于 Gradle 你应该知道的知识点](https://juejin.cn/post/7064350945756332040)
 - [Compose 实现手写春联效果](https://juejin.cn/post/7053959792770940965)
 - [@Compose 注解到底做了什么？了解一下~](https://juejin.cn/post/7051222120331739143)
 - [Google 推荐使用 MVI 架构？卷起来了~](https://juejin.cn/post/7048980213811642382)
-- [[2021年终总结] 战胜拖延症的4种实用方法](https://juejin.cn/post/7035780572404252708)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **shenzhen2017/shenzhen2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
