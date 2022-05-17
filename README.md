@@ -17,11 +17,11 @@
 #### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
+- [Google I/O : 使用 Baseline Profiles 优化启动性能](https://juejin.cn/post/7098117781157052429)
+- [Google I/O : Jetpack Compose 中常见的性能问题](https://juejin.cn/post/7097066597222711327)
 - [如何简单方便地Hook Gradle插件?](https://juejin.cn/post/7095511659925471240)
 - [Compose 渲染性能到底怎么样?](https://juejin.cn/post/7090554700344328229)
 - [关于 Android 渲染你应该了解的知识点](https://juejin.cn/post/7088100181261942792)
-- [Vue 实现 Chrome 小恐龙游戏](https://juejin.cn/post/7087740202277404709)
-- [Vue的双向绑定和单向数据流冲突吗?](https://juejin.cn/post/7085139499767840782)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **shenzhen2017/shenzhen2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
