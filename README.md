@@ -1,6 +1,6 @@
 ### Hi，我是江同学
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shenzhen2017&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RicardoJiang&show_icons=true&theme=radical)
 
 #### 在哪里找到我：
 
@@ -24,7 +24,7 @@
 - [ASM 插桩采集方法入参，出参及耗时信息](https://juejin.cn/post/7108526362087915534)
 <!-- BLOG-POST-LIST:END -->
 <!--
-**shenzhen2017/shenzhen2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RicardoJiang/RicardoJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
