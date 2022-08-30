@@ -17,11 +17,11 @@
 #### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin 增量编译是怎么实现的？](https://juejin.cn/post/7137089121989689351)
 - [Gradle 进阶&lpar;一&rpar;：深入了解 Tasks](https://juejin.cn/post/7135065142768697380)
 - [Transform 被废弃，TransformAction 了解一下~](https://juejin.cn/post/7131889789787176974)
 - [Kotlin 1.7 新特性：支持跨模块增量编译](https://juejin.cn/post/7126698891692474375)
 - [Android 性能优化之 R 文件优化详解](https://juejin.cn/post/7124102824316633096)
-- [Kotlin 快速编译背后的黑科技，了解一下~](https://juejin.cn/post/7118908219841314823)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **RicardoJiang/RicardoJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
