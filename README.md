@@ -12,7 +12,7 @@
 
 ![Android](https://img.shields.io/badge/Android-%2335495e.svg?style=for-the-badge&logo=Android&logoColor=%FF35D06D)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%23323330.svg?&style=for-the-badge&logo=kotlin&logoColor=%FF7F52FF)
-![Compose](https://img.shields.io/badge/Compose-%2335495e.svg?style=for-the-badge&logo=Android&logoColor=white)
+![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 #### 最近更新：
 
