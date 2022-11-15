@@ -17,11 +17,11 @@
 #### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin 默认可见性为 public，是不是一个好的设计？](https://juejin.cn/post/7165659437137395748)
 - [kotlin-android-extensions 插件到底是怎么实现的？](https://juejin.cn/post/7155491115645435917)
 - [2022年编译加速的8个实用技巧](https://juejin.cn/post/7153250843905654798)
 - [落地 Kotlin 代码规范，DeteKt 了解一下~](https://juejin.cn/post/7152886037746827277)
 - [Gradle 都做了哪些缓存？](https://juejin.cn/post/7151931374784479263)
-- [开发你的第一个 Kotlin 编译器插件](https://juejin.cn/post/7144873690319028255)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **RicardoJiang/RicardoJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
