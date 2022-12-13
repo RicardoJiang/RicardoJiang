@@ -17,11 +17,11 @@
 #### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
+- [江同学的 2022 年终总结，请查收~](https://juejin.cn/post/7174065150968725534)
 - [学习一下 nowinandroid 的构建脚本](https://juejin.cn/post/7170848190139203614)
 - [KAE 将被正式移除，如何无缝迁移？](https://juejin.cn/post/7168256990484332580)
 - [Kotlin 默认可见性为 public，是不是一个好的设计？](https://juejin.cn/post/7165659437137395748)
 - [kotlin-android-extensions 插件到底是怎么实现的？](https://juejin.cn/post/7155491115645435917)
-- [2022年编译加速的8个实用技巧](https://juejin.cn/post/7153250843905654798)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **RicardoJiang/RicardoJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
