@@ -17,11 +17,11 @@
 #### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
+- [启动优化中的一些黑科技，了解一下~](https://juejin.cn/post/7217828263259291708)
 - [【稳定性优化】安全气囊如何实现？](https://juejin.cn/post/7215226343712489533)
 - [Native Hook 快速上手](https://juejin.cn/post/7212240532796784699)
 - [江同学的 2022 年终总结，请查收~](https://juejin.cn/post/7174065150968725534)
 - [学习一下 nowinandroid 的构建脚本](https://juejin.cn/post/7170848190139203614)
-- [kotlin-android-extensions 插件将被正式移除，如何无缝迁移？](https://juejin.cn/post/7168256990484332580)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **RicardoJiang/RicardoJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
