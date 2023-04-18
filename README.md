@@ -17,11 +17,11 @@
 #### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
+- [线下活动 | 2023 KotlinConf Global 北京分享会](https://juejin.cn/post/7223218860500484153)
+- [【卡顿优化】卡顿问题如何监控？](https://juejin.cn/post/7222651312073850935)
 - [启动优化中的一些黑科技，了解一下~](https://juejin.cn/post/7217828263259291708)
 - [【稳定性优化】安全气囊如何实现？](https://juejin.cn/post/7215226343712489533)
 - [Native Hook 快速上手](https://juejin.cn/post/7212240532796784699)
-- [江同学的 2022 年终总结，请查收~](https://juejin.cn/post/7174065150968725534)
-- [学习一下 nowinandroid 的构建脚本](https://juejin.cn/post/7170848190139203614)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **RicardoJiang/RicardoJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
