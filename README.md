@@ -17,11 +17,11 @@
 #### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
+- [ELF 文件格式详解](https://juejin.cn/post/7248599585752285221)
 - [Kotlin 技术月报 | 2023 年 5 月](https://juejin.cn/post/7238140147094749243)
 - [使用 Compose 在 iOS 上实现灵动岛效果](https://juejin.cn/post/7235547967113035813)
 - [【 Android 性能优化】ANR 问题如何监控？](https://juejin.cn/post/7229370243146727484)
 - [线下活动 | 2023 KotlinConf Global 北京分享会](https://juejin.cn/post/7223218860500484153)
-- [【卡顿优化】卡顿问题如何监控？](https://juejin.cn/post/7222651312073850935)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **RicardoJiang/RicardoJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
