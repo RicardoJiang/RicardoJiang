@@ -17,11 +17,11 @@
 #### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin 技术月报 | 2023 年 12 月](https://juejin.cn/post/7317518562082897958)
+- [江同学的 2023 年终总结，请查收~](https://juejin.cn/post/7317214078043160627)
 - [使用 KCP 打造更安全的 Gson 与更快的 Moshi](https://juejin.cn/post/7313242107681882138)
 - [Kotlin 技术月报 | 2023 年 11 月](https://juejin.cn/post/7306780139744378931)
 - [Kotlin 技术月报 | 2023 年 10 月](https://juejin.cn/post/7295593288241217574)
-- [常用 JSON 库性能对比: Gson VS Moshi VS Kotlin Serialization VS ...](https://juejin.cn/post/7287083662758379554)
-- [Kotlin 技术月报 | 2023 年 9 月](https://juejin.cn/post/7283322449038671909)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **RicardoJiang/RicardoJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
