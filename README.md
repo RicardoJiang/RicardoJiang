@@ -17,11 +17,11 @@
 #### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin 技术月报 | 2024 年 7 月](https://juejin.cn/post/7397274001066606601)
 - [Kotlin 技术月报 | 2024 年 6 月](https://juejin.cn/post/7385003658390503459)
 - [线下活动 | 2024 KotlinConf Global 北京分享会](https://juejin.cn/post/7375072185209454604)
 - [Kotlin 技术月报 | 2024 年 5 月](https://juejin.cn/post/7374307181481754678)
 - [Kotlin 技术月报 | 2024 年 4 月](https://juejin.cn/post/7362739494494388258)
-- [Kotlin 技术月报 | 2024 年 3 月](https://juejin.cn/post/7351300892615032895)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **RicardoJiang/RicardoJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
